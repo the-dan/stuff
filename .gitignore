@@ -1,0 +1,4 @@
+moz-keystore/log.log
+moz-keystore/jks.log
+moz-keystore/certs/*
+moz-keystore/moz.jks
